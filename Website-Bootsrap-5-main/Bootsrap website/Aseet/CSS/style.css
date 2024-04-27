@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+        background-color: #f9f6f2;
+}
+.d-block1 {
+   height: 100px;
+    
+ }
+.card-body{
+    padding: 25px;
+    margin-top: -15px;
+}
+.card-img-top1:hover{
+    transition: ease;
+    transform: scale(1.2);
+}
+.btn-primary{
+    border-radius: 50px;
+    width: 120px;
+}
+.btn-primary:hover{
+    background-color: black;
+    border: none;
+}
+h3,h5{
+    color: rgb(0, 91, 228);
+}
+      
+      
